@@ -2,6 +2,15 @@
 ## This is my first app
 ### Hello I Ali a best coder in the world 
 
+## About me
+
+Hi, I'm Ali. You might recognize me as GitHub's Ali313.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
 ** My porject **
 _ _ This is a new text in file readme _ _
