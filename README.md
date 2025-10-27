@@ -6,9 +6,9 @@
 ** My porject **
 _ _ This is a new text in file readme _ _
 
-~~ expired this text ~~
+~~ expired this text 
 
-** Hello it is my name _ _ Mohammad _ _ nice to meet you ** 
+** Hello it is my name _ _ Mohammad nice to meet you ** 
 
 
 This is <sub>HTML</sub> file
